@@ -14,18 +14,18 @@ const CONFIG = {
     github: {
       display: true, // Display GitHub projects?
       header: 'Github Projects',
-      mode: 'automatic', // Mode can be: 'automatic' or 'manual'
+      mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
         limit: 8, // How many projects to display.
         exclude: {
-          forks: false, // Forked projects will not be displayed if set to true.
+          forks: true, // Forked projects will not be displayed if set to true.
           projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['lewandos/lewandos', 'lewandos/page'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['lewandos/lewandos', 'HUAWEIBlog/HUAWEI.Blog-Pro-App'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -33,15 +33,39 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'LGT Capital Partners',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://sle.it-lew.de/wp-content/uploads/2024/01/lgtcp_2024_large_white_2.svg',
           link: 'https://example.com',
         },
         {
-          title: 'Project Name',
+          title: 'SMS digital GmbH',
+          description:
+            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+          imageUrl:
+            'https://sle.it-lew.de/wp-content/uploads/2023/02/SMS-digital-Logo-white-768x141.png',
+          link: 'https://example.com',
+        },
+        {
+          title: 'Flowfact',
+          description:
+            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+          imageUrl:
+            'https://sle.it-lew.de/wp-content/uploads/2024/01/FLOWFACT-Logo1_horizontal_w.png',
+          link: 'https://example.com',
+        },
+        {
+          title: 'Reuter.de',
+          description:
+            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+          imageUrl:
+            'https://sle.it-lew.de/wp-content/uploads/2024/01/reuter.de_white.svg',
+          link: 'https://example.com',
+        },
+        {
+          title: 'Dresen.de',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
@@ -58,7 +82,7 @@ const CONFIG = {
   },
   social: {
     linkedin: 'sascha-lewandowski',
-    twitter: 'arf_szn',
+    twitter: '',
     mastodon: '',
     facebook: '',
     instagram: '',
