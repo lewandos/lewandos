@@ -35,42 +35,42 @@ const CONFIG = {
         {
           title: 'LGT Capital Partners',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            '',
           imageUrl:
             'https://sle.it-lew.de/wp-content/uploads/2024/01/lgtcp_2024_large_white_2.svg',
-          link: 'https://example.com',
+          link: 'https://lgtcp.com',
         },
         {
           title: 'SMS digital GmbH',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            '',
           imageUrl:
             'https://sle.it-lew.de/wp-content/uploads/2023/02/SMS-digital-Logo-white-768x141.png',
-          link: 'https://example.com',
+          link: 'https://sms-digital.com',
         },
         {
           title: 'Flowfact',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            '',
           imageUrl:
             'https://sle.it-lew.de/wp-content/uploads/2024/01/FLOWFACT-Logo1_horizontal_w.png',
-          link: 'https://example.com',
+          link: 'https://flowfact.de',
         },
         {
           title: 'Reuter.de',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            '',
           imageUrl:
             'https://sle.it-lew.de/wp-content/uploads/2024/01/reuter.de_white.svg',
-          link: 'https://example.com',
+          link: 'https://reuter.de',
         },
         {
           title: 'Dresen.de',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            '',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://sle.it-lew.de/wp-content/uploads/2024/01/dresen-logo_neu_white.svg',
+          link: 'https://dresen.de',
         },
       ],
     },
