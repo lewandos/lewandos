@@ -8,7 +8,7 @@ With over 10 years of experience in the field, I've had the opportunity to work 
 # 🚀 Expertise
 
 - **Located:** 🌐 Switzerland   
-- **Experience:** Over 7 years in Cloud Engineering, 4 years in IT Security.
+- **Experience:** Over 10+ years in Cloud Engineering, 6 years in IT Security.
 - **Current Role:** Senior Cloud Engineer, specializing in Azure Cloud, security, and automation.
 - **Private Key Projects:** HUAWEI.Blog, AbiWillich.de, Niersia 1919 Neersen, DJK VFL Willich website.
 - **Certifications:** IT-Security-Advisor (TÜV), Business English (LCCI).
